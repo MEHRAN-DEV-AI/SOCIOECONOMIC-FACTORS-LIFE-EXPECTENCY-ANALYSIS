@@ -52,7 +52,7 @@ Schooling: Number of years of Schooling (years)
 
 Cluster: Cluster group based on clustering analysis
 
-For detailed information about each column, refer to the [Metadata File](datasetmetadata.md).
+For detailed information about each column, refer to the [Metadata File]([datasetmetadata.md](https://github.com/MEHRAN-DEV-AI/SOCIOECONOMIC-FACTORS-LIFE-EXPECTENCY-ANALYSIS/blob/main/DATASET%20META%20DATA.md)).
 .
 
 # Analysis
@@ -71,7 +71,7 @@ Correlation analysis between health indicators and socio-economic factors
 For a detailed walkthrough of the analysis and code, please refer to the Jupyter Notebook files provided in this repository.
 
 # Note:
-To understand the specifics of each column and additional details, please check the [Metadata File](datasetmetadata.md).
+To understand the specifics of each column and additional details, please check the [Metadata File]([datasetmetadata.md](https://github.com/MEHRAN-DEV-AI/SOCIOECONOMIC-FACTORS-LIFE-EXPECTENCY-ANALYSIS/blob/main/DATASET%20META%20DATA.md)).
 
 # Contributions
 Feel free to contribute to this project by adding new analyses, improving existing code, or providing insights. Please fork the repository and submit a pull request with your changes.
