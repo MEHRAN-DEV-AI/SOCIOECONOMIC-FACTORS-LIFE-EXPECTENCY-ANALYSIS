@@ -76,7 +76,7 @@ To understand the specifics of each column and additional details, please check 
 Feel free to contribute to this project by adding new analyses, improving existing code, or providing insights. Please fork the repository and submit a pull request with your changes.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/MEHRAN-DEV-AI/SOCIOECONOMIC-FACTORS-LIFE-EXPECTENCY-ANALYSIS/blob/main/LICENSE) file for details.
 
 # Acknowledgments
 We would like to thank the data providers and everyone who has contributed to this dataset.
